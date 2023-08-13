@@ -26,7 +26,7 @@ int main() {
     int num1, num2, num3;
 
     // รับค่าตัวเลข 3 จำนวนจากผู้ใช้
-    printf("Input 1: ");
+    printf("");
     scanf("%d", &num1); 
     scanf("%d", &num2);
     scanf("%d", &num3);
