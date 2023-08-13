@@ -27,12 +27,8 @@ int main() {
 
     // รับค่าตัวเลข 3 จำนวนจากผู้ใช้
     printf("Input 1: ");
-    scanf("%d", &num1);
-
-    printf("Input 2: ");
+    scanf("%d", &num1); 
     scanf("%d", &num2);
-
-    printf("Input 3: ");
     scanf("%d", &num3);
 
     // ตรวจสอบและแสดงผลลัพธ์
